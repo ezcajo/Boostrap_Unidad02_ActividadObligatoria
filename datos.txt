@@ -1,0 +1,3 @@
+git remote add origin https://github.com/ezcajo/Boostrap_Unidad02_ActividadObligatoria.git
+git branch -M master
+git push -u origin master
